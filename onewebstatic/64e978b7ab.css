@@ -1,0 +1,105 @@
+.mobileV div[data-id='AB45118E-5013-4D46-BAE8-57BFC5F2826C'] > div:first-child {border-top-left-radius: 60px !important;
+border-top-right-radius: 60px !important;
+border-bottom-right-radius: 60px !important;
+border-bottom-left-radius: 60px !important;
+}
+.mobileV div[data-id='B59B336D-8066-47DB-BE92-5E932A64BFAD'] > div:first-child {border-top-left-radius: 60px !important;
+border-top-right-radius: 60px !important;
+border-bottom-right-radius: 60px !important;
+border-bottom-left-radius: 60px !important;
+}
+.mobileV div[data-id='C314DA16-39DB-426F-96D2-4F8E71924B14'] > div:first-child {border-top-left-radius: 60px !important;
+border-top-right-radius: 60px !important;
+border-bottom-right-radius: 60px !important;
+border-bottom-left-radius: 60px !important;
+}
+
+            .mobileV div[data-id='34CE66F6-1A64-411F-968E-9DDD0742A203'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='892963ED-B2C5-4D53-AE12-E19D144025DB'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='E8048B12-4991-4E9B-8595-1EE85CFC552A'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='13D057B6-BD3D-4366-887C-B26949EDFDC7'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='9EDB3E2A-6357-4793-B9C1-2EB8B814A898'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='4808FC22-4B96-4AEE-B6B3-98F91704E31B'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='CA91A7B3-5CE4-43EF-A959-95F6C9BD52E6'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='62731813-BA5B-438C-A55F-ACF3262376ED'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='8D39EE32-3307-44AF-9CBB-0CB61DF85684'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='4F59EAD5-0887-41AB-B79B-D70A2D3FCEA7'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='4947EF95-3E46-497A-A415-7440440F416A'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='DDC4F83D-E5B2-4F9E-9FB9-E0B1AFF3A6E6'] {
+                display: block !important;
+            }
+.mobileV div[data-id='80B406C7-85B4-4938-81F5-ACAF09E7FEFB'] > div:first-child {border-top-width: 1px !important;
+border-right-width: 1px !important;
+border-bottom-width: 1px !important;
+border-left-width: 1px !important;
+}
+.mobileV div[data-id='260F65E5-36C4-4D2C-BC80-925CE8132EBE'] > div:first-child {border-top-width: 1px !important;
+border-right-width: 1px !important;
+border-bottom-width: 1px !important;
+border-left-width: 1px !important;
+}
+.mobileV div[data-id='441DA3E2-48A8-440A-8330-06C9B16E84F6'] > div:first-child {border-top-width: 1px !important;
+border-right-width: 1px !important;
+border-bottom-width: 1px !important;
+border-left-width: 1px !important;
+}
+.mobileV div[data-id='FA012367-53FF-4F08-97E5-4CFA5D746A56'] > div:first-child {border-top-width: 1px !important;
+border-right-width: 1px !important;
+border-bottom-width: 1px !important;
+border-left-width: 1px !important;
+}
+
+            .mobileV div[data-id='2F2BD4D5-6F29-4085-9D4E-2CCEE20AADFC'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='CE63AB78-1513-4A45-96B7-88E9E857EA75'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='6A2173DB-2A27-4B11-8C58-AB78283A3ADE'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='59F86D14-8B7D-40AF-8620-28EBFB1790AF'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='FB7075D3-9858-4611-9564-C6658C720864'] {
+                display: block !important;
+            }
+        @media (max-width: 650px) { body { min-width: 'initial' } body.desktopV { min-width: 1522px } }
+        @media (min-width: 651px) { body { min-width: 1522px } body.mobileV { min-width: initial } }
